@@ -18,6 +18,6 @@ In this file, we list the specific ratings of the featured apps in the week befo
 
 In this file, we list the specific slogans of each story on the "Today" page, including the following columns:
 
-4.  updates
+4.  updates_cn/us
 
 In this directory, we provide the specific actions of each update for the featured apps.
