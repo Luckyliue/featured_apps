@@ -1,5 +1,5 @@
-# featured_apps
-Ths repor contains the followng files:
+# featured_apps_dataset
+This repo contains the followng files:
 
 1. rankinginfo_cn/us.csv
 
